@@ -1,4 +1,4 @@
-# Hotel-Booking-Analyis-DV-PowerBI
+# Hotel_Booking_Analyis-DV - PowerBI
 
 ![image](https://github.com/VishalSinhaRoy/Hotel-Booking-Analyis-DV-PowerBI/assets/162811130/7b9b8fa4-b7ff-4431-9e37-1ee4205b1429)
 
